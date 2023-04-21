@@ -1,8 +1,14 @@
 <h1 align="center"> Hi there 👋, I'm Iftekhar Fahim</h1>
+
+
 Curious about programming, algorithmic problem solving and software development.
 
+
+
 - 🏠 Lives in Cumilla, Bangladesh
+
 - 👜 Student at Chittagong University of Engineering & Technology
+
 - 🧰 Skills:
 - - Language: `C`, `C++`, `Python`
   - Fundamentals: `Data structure`, `Algorithm`
