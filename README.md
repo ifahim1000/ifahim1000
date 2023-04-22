@@ -10,7 +10,7 @@ Curious about programming, algorithmic problem solving and software development.
 - 👜 Student at Chittagong University of Engineering & Technology
 
 - 🧰 Skills:
-- - Language: `C`, `C++`, `Python`
+  - Language: `C`, `C++`, `Python`
   - Fundamentals: `Data structure`, `Algorithm`
   - Web: `HTML`, `CSS`, `JS`, `PHP`
   - Database: `Mysql`
