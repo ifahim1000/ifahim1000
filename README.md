@@ -21,6 +21,9 @@ Curious about programming, algorithmic problem solving and software development.
 <a href="https://www.facebook.com/iftekhar.fahim.180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="henrick993" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_ifahim1000_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="henrick993" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifahim1000&theme=radical&layout=compact"/></p>
+
 | ![Iftekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifahim1000&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifahim1000&layout=compact) |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 <!--
