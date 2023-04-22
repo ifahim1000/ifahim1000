@@ -22,7 +22,7 @@ Curious about programming, algorithmic problem solving and software development.
 <a href="https://codeforces.com/profile/_ifahim1000_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="henrick993" height="30" width="40" /></a>
 </p>
 
-| ![Iftekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifahim1000&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifahim1000&layout=compact) |
+| ![Iftekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifahim1000) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifahim1000&layout=compact) |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 <!--
 **ifahim1000/ifahim1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
