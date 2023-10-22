@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there 👋, I'm Iftekhar Fahim</h1>
 
 
-Curious about programming, algorithmic problem solving and software development.
+Curious about algorithmic problem solving, NLP and software development lifecycle.
 
 
 
 - 🏠 Lives in Cumilla, Bangladesh
 
-- 👜 Student at Chittagong University of Engineering & Technology
+- 👜 Software Engineer at Enosis Solutions
 
 - 🧰 Skills:
   - Language: `C`, `C++`, `Python`
