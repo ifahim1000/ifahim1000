@@ -1,10 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Iftekhar Fahim</h1>
 
-
-Curious about algorithmic problem solving, NLP and software development lifecycle.
-
-
-
 - 🏠 Lives in Cumilla, Bangladesh
 
 - 👜 Software Engineer at Enosis Solutions
@@ -14,7 +9,7 @@ Curious about algorithmic problem solving, NLP and software development lifecycl
   - Fundamentals: `Data structure`, `Algorithm`
   - Web: `HTML`, `CSS`, `JS`, `PHP`
   - Database: `Mysql`
-- 🌱 Interested in `Software development`, `Problem Solving`, `Backend Engineering`, `Devops`
+- 🌱 Interested in `Problem Solving`, `Backend Engineering`, `NLP`
 <p align="left">
 <h3 align="left">Reach me :</h3>
 <a href="mailto:ifahim1000@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ifahim1000" height="30" width="40" /></a>
