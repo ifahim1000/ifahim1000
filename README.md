@@ -7,7 +7,7 @@
   - Fundamentals: `Data structure`, `Algorithm`
   - Web: `HTML`, `CSS`, `JS`, `PHP`
   - Database: `Mysql`
-- 🌱 Interested in `Problem Solving`, `Backend Engineering`, `NLP`
+- 🌱 Interested in `Problem Solving`, `SWE`, `NLP`, `Machine Learning`
 <p align="left">
 <h3 align="left">Reach me :</h3>
 <a href="mailto:ifahim1000@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ifahim1000" height="30" width="40" /></a>
