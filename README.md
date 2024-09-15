@@ -2,8 +2,6 @@
 
 - 🏠 Lives in Cumilla, Bangladesh
 
-- 👜 Software Engineer at Enosis Solutions
-
 - 🧰 Skills:
   - Language: `C`, `C++`, `Python`
   - Fundamentals: `Data structure`, `Algorithm`
